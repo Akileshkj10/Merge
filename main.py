@@ -32,7 +32,7 @@ printList(arr)
 mergeSort(arr)
 print("Sorted array is: ", end="\n")
 printList(arr)
-[3:47 PM]
+
 def partition(arr, low, high):
     i = (low-1)
     pivot = arr[high]
